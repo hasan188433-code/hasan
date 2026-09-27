@@ -1,0 +1,6 @@
+{
+  "name": "اتاق صوتی و چت - VoiceHub",
+  "description": "برنامه ساخت اتاق‌های چت و ویس چت گروهی با قابلیت گفتگو، ضبط صدا، استیج گویندگان و لایو استریم صوتی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
